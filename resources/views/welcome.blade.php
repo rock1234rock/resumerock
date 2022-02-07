@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-     สวัสดีหมีน้อย
-</html>
+@extends('tempate\layout')
+
+@section('title', 'Durian Online: guarantee premeime grade')
+
+@section('content')
+@endsection
