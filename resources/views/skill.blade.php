@@ -48,6 +48,7 @@
                         <li class="list-inline-item"><i class="fab fa-python"></i></li>
                         <li class="list-inline-item"><i class="fab fa-bootstrap"></i></li>
                         <li class="list-inline-item"><i class="fab fa-windows"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-github"></i></li>
                     </ul>
                     <div class="subheading mb-3">Workflow</div>
                     <ul class="fa-ul mb-0">
@@ -58,6 +59,10 @@
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
                             สามารถใช้งาน laravel framework ได้
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            สามารถใช้งาน deploy project บน  heroku ได้
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
