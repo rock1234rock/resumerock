@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Resume - Start Bootstrap Theme</title>
+        <title>Resume</title>
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
@@ -50,10 +50,9 @@
                     <p class="lead mb-5">สวัสดีครับผมนาย ศรัณย์ โภคสมบัติ จบจาก มหาวิทยาลัยบูรพา คณะวิทย์ศาสตร์และศิลปศาสตร์ สาขาเทคโนโลยีสารสนเทศ
                         อายุ 24 ปี   </p>
                     <div class="social-icons">
-                        <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
-                        <a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a>
-                        <a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a>
+                        <a class="social-icon" href="https://www.youtube.com/channel/UCZ6dviXaH9ti_O0IGkUB4pQ"><i class="fab fa-youtube"></i></a>
+                        <a class="social-icon" href="https://github.com/rock1234rock?tab=repositories"><i class="fab fa-github"></i></a>
+                        <a class="social-icon" href="https://www.facebook.com/assint.creed"><i class="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
             </section>
