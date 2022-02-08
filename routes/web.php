@@ -25,3 +25,6 @@ Route::get('/experience', function () {
 Route::get('/skill', function () {
     return view('skill');
 });
+Route::get('/event', function () {
+    return view('event');
+});
