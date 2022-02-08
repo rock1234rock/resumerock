@@ -43,8 +43,8 @@
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Burapha University</h3>
-                            <div class="subheading mb-3">Science and Arts </div>
-                            <div>Information Technology </div>
+                            <div class="subheading mb-3">Faculty Science and Arts  bachelor’s degree in information tecnology </div>
+                            <div> </div>
                             <p>GPA: 2.21 </p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2016 - December 2020</span></div>
