@@ -47,7 +47,8 @@
                         Tha Phrik sub district, Mueang Trat district, Trat
                         <a href="mailto:name@email.com">rock_858_@hotmail.com</a>
                     </div>
-                    <p class="lead mb-5">พนค่อยทำ</p>
+                    <p class="lead mb-5">สวัสดีครับผมนาย ศรัณย์ โภคสมบัติ จบจาก มหาวิทยาลัยบูรพา คณะวิทย์ศาสตร์และศิลปศาสตร์ สาขาเทคโนโลยีสารสนเทศ
+                        อายุ 24 ปี   </p>
                     <div class="social-icons">
                         <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
