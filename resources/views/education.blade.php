@@ -28,7 +28,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/">About</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/experience">Experience</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/education">Education</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/skill">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/">Interests</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/">Awards</a></li>
                 </ul>
