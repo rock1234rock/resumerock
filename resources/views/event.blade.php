@@ -37,12 +37,18 @@
         <!-- Page Content-->
         <div class="container-fluid p-0">
             <!-- About-->
-            <section class="resume-section" id="about">
+            <<section class="resume-section" id="experience">
                 <div class="resume-section-content">
-                    <h1 class="mb-0">
-                        SARAN
-                        <span class="text-primary">POKSOMBAT</span>
-                    
+                    <h2 class="mb-5">Event</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">กิจกรรมที่สำคัญระหว่างศึกษา</h3>
+                            <div class="subheading mb-3">กิจกรรมค่ายพี่สอนน้อง </div>
+                            <p>กิจกรรมค่ายพี่สอนน้องเป็นค่ายที่จัดขึ้นเพื่อสอนน้องเกี่ยวการสร้าง IOT </p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 2021  - January 2022 </span></div>
+                    </div>
+                </div>
             </section>
             <hr class="m-0" />
         </div>   
