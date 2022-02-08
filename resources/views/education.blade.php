@@ -1,4 +1,4 @@
-@extends('tempate\layout')
+@extends('tempate\welcome')
 
 @section('deucation')
 <section class="resume-section" id="education">
