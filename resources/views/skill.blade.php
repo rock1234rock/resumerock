@@ -30,7 +30,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/education">Education</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/skill">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/event">Event</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/">Awards</a></li>
+                
                 </ul>
             </div>
         </nav>
@@ -49,6 +49,7 @@
                         <li class="list-inline-item"><i class="fab fa-bootstrap"></i></li>
                         <li class="list-inline-item"><i class="fab fa-windows"></i></li>
                         <li class="list-inline-item"><i class="fab fa-github"></i></li>
+                        
                     </ul>
                     <div class="subheading mb-3">Workflow</div>
                     <ul class="fa-ul mb-0">

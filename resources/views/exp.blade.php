@@ -25,12 +25,12 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/">About</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/experience">Experience</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/education">Education</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/skill">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/event">Event</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
+                    
                 </ul>
             </div>
         </nav>
@@ -48,6 +48,16 @@
                             หน้าที่ของผมในบริษัทนั้นจะเป็นเกี่ยวกับการช่วยเหลือ User เกี่ยยวกับการดูและแก้ไขปัญหาในการใช้งานอุปกรณ์อิเล็คทรอนิคเกือบทุกชนิดในบริษัท
                         และอีกหน้าที่หนึ่งคือการดู Server ของบริษัท คอยดูแลและแก้ไชปัญหาหาก Server ล่ม หรือมีหาในการใช้งานต่างๆ และคอยสำรองข้อมูลไฟล์ต่างของบริษัท
                     และคอยดูแลเว็บไซต์ของ บริษัท ให้สามารถใช้งานได้ตอลดเวลา และก็รับผิดงานเพิ่มเติมในส่วนที่ได้มอบหมาย</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 2021  - January 2022 </span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">ฝึกงาน </h3>
+                            <div class="subheading mb-3">ที่โรงเรียนสตรีประเสริฐศิลป์</div>
+                            <p>ผมได้ฝึกงานที่โรงเรียนสตรีประเสริฐศิลป์ ในช่วงการฝึกงานมีระยะเวลา 3 เดือน ราบละเอียดงานก็จะเป็นงานของ IT Support แต่จะพิเศษนิดหน่อยตรงที่ว่า 
+                                พี่เลี่ยงเค้าให้สอนนักเรียนแทนเป็นบางครั้งหากเค้าติดธุระ 
+                                ส่วนงานหลักจะเป็นดูแลอุปกรณ์คอมพิวเตอร์โรงเรียน และมีงานในส่วนของการส้รางเว็บถายในโรงเรียนด้วย</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">March 2021  - January 2022 </span></div>
                     </div>
