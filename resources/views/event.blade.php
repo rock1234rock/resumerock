@@ -45,8 +45,8 @@
                             <h3 class="mb-0">กิจกรรมที่สำคัญระหว่างศึกษา</h3>
                             <div class="subheading mb-3">กิจกรรมค่ายพี่สอนน้อง </div>
                             <p>กิจกรรมค่ายพี่สอนน้องเป็นค่ายที่จัดขึ้นเพื่อสอนน้องเกี่ยวการสร้าง IOT </p>
+                            <img src="assets/img/event1.jpg" class="img-fluid" alt="Responsive image">
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2021  - January 2022 </span></div>
                     </div>
                 </div>
             </section>
