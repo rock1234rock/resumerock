@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/education', function () {
     return view('education');
 });
+Route::get('/experience', function () {
+    return view('exp');
+});
